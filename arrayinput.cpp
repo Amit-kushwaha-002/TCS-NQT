@@ -16,6 +16,8 @@ int main(){
 }
 
 
+// Second Method ;;;
+
 // #include<iostream>
 // using namespace std;
 // int main(){
